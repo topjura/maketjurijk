@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.mail{
+    background-image: url('uyt.jpg');
+    height: 100vh;
+    background-size: cover;
+}
+.logo{
+color: antiquewhite;
+}
+.link{
+    text-decoration: none;
+    color: bisque;
+}
+.link:hover{
+    color: yellow;
+}
+.button{
+    text-decoration: none;
+ border: dimgray;
+}
+.top-menu{
+    justify-content: space-between;
+}
+.text{
+    text-align: center;
+    color: aliceblue;
+    font-size: large;
+    margin-top: 100px;
+}
+.smalltext{
+    color: aliceblue;
+    text-align: center;
+}
+.a{
+    width: 100px;
+    height: 150px;
+    background-image: url('graduation-cap-free-icon-font.png');
+    background-size: cover;
+    margin: auto;
+}
+.k{
+    width: 100px;
+    height: 150px;
+    background-image: url('graduation-cap-free-icon-font.png');
+    background-size: cover;
+    margin: auto;
+}
+.l{
+    width: 100px;
+    height: 150px;
+    background-image: url('/graduation-cap-free-icon-font.png');
+    background-size: cover;
+    margin: auto;
+}
+.o{
+    width: 100px;
+    height: 150px;
+    background-image: url('graduation-cap-free-icon-font.png');
+    background-size: cover;
+    margin: auto;
+}
+.o{
+    width: 100px;
+    height: 150px;
+    background-image: url('graduation-cap-free-icon-font.png');
+    background-size: cover;
+    margin: auto;
+}
+.imgs{
+    justify-content: space-between;
+    text-align: center;
+    padding-top: 60px;
+    box-sizing: border-box;
+}
